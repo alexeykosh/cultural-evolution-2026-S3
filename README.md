@@ -20,6 +20,7 @@ The table below links to each practical.
 | 4 | 06/10 | [Henrich (2004) replication](https://github.com/alexeykosh/cultural-evolution-2026-S3/blob/main/S4/04-Henrich-model.ipynb) |
 | 5 | 13/10 | [Byilding phylogenies from scratch](https://github.com/alexeykosh/cultural-evolution-2026-S3/blob/main/S5/05-linguistic-phylogenies.ipynb) |
 | 7 | 28/10 | [Cultural attraction](https://github.com/alexeykosh/cultural-evolution-2026-S3/blob/main/S7/07-bayesian-iterated-learning.ipynb) |
+| 7 | 28/10 | [Context biases](https://github.com/alexeykosh/cultural-evolution-2026-S3/blob/main/s8/8-frequency-dependent-selection.ipynb) |
 
 ## Prerequisites  
 
